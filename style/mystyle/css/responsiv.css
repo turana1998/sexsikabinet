@@ -1,0 +1,546 @@
+@media(max-width:1280px) {
+    .radiobtn_hr {
+        width: 253px !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    @media (min-width:1200px) {
+        .container {
+            max-width: 90% !important;
+            padding-right: 0;
+            padding-left: 0;
+            margin-right: 75px;
+            margin-left: 75px;
+        }
+
+        .containernav {
+            max-width: 100% !important;
+            padding-right: 0;
+            padding-left: 0;
+            margin-right: 0px;
+            margin-left: px;
+        }
+
+        .containernav .navbar {
+            max-width: 90% !important;
+            margin-right: 75px;
+            margin-left: 75px;
+        }
+
+    }
+
+}
+
+
+
+@media (max-width: 768px) {
+    .navbar-collapse {
+        margin-left: -15px;
+        margin-top: -23px;
+    }
+
+    .container {
+        max-width: 100% !important;
+        padding-right: 0;
+        padding-left: 0;
+        margin-right: 0;
+        margin-left: 0px;
+    }
+
+    .containernav {
+        padding: 0 15px;
+    }
+
+}
+
+@media (min-width: 576px) {
+
+    .ml-sm-5,
+    .mx-sm-5 {
+        margin-left: 0rem !important;
+    }
+
+}
+
+@media (max-device-width: 1023px) {
+    .navbar {
+
+        margin: 0 !important;
+    }
+}
+
+@media (max-width:2560px) and (min-width:1532px) {
+    body {
+        overflow-x: hidden;
+    }
+}
+
+@media (max-width:1562px) and (min-width:1400px) {
+    body {
+        overflow-x: hidden;
+    }
+}
+
+
+@media (max-width:1532px) and (min-width:1300px) {
+    body {
+        overflow-x: hidden;
+    }
+}
+
+
+@media only screen and (max-width: 1024px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .field-container {
+        width: 210px;
+    }
+
+}
+
+@media only screen and (max-width:768px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .field-container {
+        width: 150px;
+    }
+}
+
+@media (max-width:1000px) and (min-width:768px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .labelss {
+        margin-right: 30px;
+    }
+}
+
+@media only screen and (max-device-width: 1024px) {
+    .navbar {
+
+        margin: 0 !important;
+        z-index: 1;
+    }
+
+    .container.navv .col-auto {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .container {
+        margin-left: 0;
+    }
+
+    .contact_form {
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+
+    .ml-md-5,
+    .mx-md-5 {
+        margin-left: 0 !important;
+    }
+
+    .container.navv {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+
+}
+
+/*end header*/
+@media (max-width:768px) and (min-width:300px) {
+
+    .birds h2:before,
+    h2:after {
+        background: white;
+    }
+
+    .private-account-nav {
+        position: absolute;
+        width: 240px !important;
+        height: 88vh !important;
+        right: -240px;
+        top: 95px;
+        background: #1F3F30 !important;
+        z-index: 1000;
+        padding: 20px;
+        display: none;
+    }
+
+    .beNone {
+        display: none;
+    }
+
+    .my-top-0 {
+        margin-top: 0px !important;
+    }
+
+    .mobile-navbar {
+        display: block;
+        z-index: 1000;
+        left: -204px;
+
+    }
+
+    .btns {
+        justify-content: center !important;
+    }
+
+    .ferqli {
+        width: 146px !important;
+    }
+
+    .xariciunvan_btn {
+        width: 86px;
+        font-size: 14px;
+        padding: 10px 3px;
+    }
+
+    .kuryer_title_col6 {
+        margin-bottom: 100px;
+    }
+
+    .baglamalarisecin {
+        width: 100%;
+    }
+
+    .baglamalarisecin_btn {
+        width: 100px;
+        font-size: 13px;
+    }
+
+    .kuryersifariset_btn {
+        margin: 20px auto;
+    }
+
+    .custom-control label {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .custom-control label span {
+        display: none;
+    }
+
+    .Turkey-Desktop {
+        display: none !important;
+    }
+
+    .toplam_qiymet {
+        margin-left: 15px;
+        width: 170px !important;
+        height: 50px !important;
+        font-size: 14px;
+        padding-bottom: 10px;
+
+    }
+
+    .sifaris_odeniset {
+        margin: 0px auto;
+    }
+
+    .order-rule {
+
+        margin: 10px auto;
+    }
+
+    .sifarisetinforpink {
+        padding: 0px !important;
+        position: relative;
+
+        z-index: 110;
+    }
+
+    .sifarisetinforpink p {
+        text-align: center;
+        line-height: 25px;
+        padding: 20px !important;
+        margin-left: 0px !important;
+        font-size: 17px;
+
+    }
+
+    .sifarisetinforpink img {
+        position: absolute;
+        z-index: -200;
+        right: 20px;
+        top: 10px;
+    }
+
+    .sifarisetinforblue p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    #table_sifaris {
+        display: none !important;
+    }
+
+    .referal-account {
+        order: 1;
+        margin-top: 10px;
+
+    }
+
+    .referaluzre-buttons button {
+        width: 45% !important;
+
+    }
+
+    .referaluzre-buttons {
+        justify-content: space-between;
+    }
+
+    .packed {
+        order: 1;
+    }
+
+    .packed .xariciunvan_title {
+        font-size: 23px !important;
+        margin-top: 16px;
+        margin-bottom: 10px;
+    }
+
+    .order-list {
+        width: 100%;
+        font-size: 16px;
+        flex-direction: column;
+        padding-left: 0px;
+        margin-top: 20px !important;
+        display: block !important;
+    }
+
+    .order-list input {
+        display: inline-block !important;
+        width: 20px;
+        height: 20px;
+        margin-right: 20px;
+    }
+
+    .order-list i {
+        color: gray !important;
+
+    }
+
+    .order-list span {
+        margin-left: 20px !important;
+    }
+
+    .list-main {
+        margin-left: 0px !important;
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+    .mobile-list {
+        font-size: 28px !important;
+    }
+
+    @media (min-width: 1200px) {
+        .col-xl-31 {
+            max-width: 20% !important;
+        }
+    }
+
+    @media only screen and (max-width: 575px) {
+        .xarici_unvanlar {
+            margin-top: 20px;
+        }
+
+        .btns {
+            order: 0;
+        }
+
+        .mobile-balans {
+            order: 1;
+        }
+
+        .mobile-kur-sif {
+            order: 1;
+            margin-top: 10px;
+        }
+
+        .mobile-kur-sif .xariciunvan_title {
+            font-size: 23px !important;
+            margin-left: -5px;
+
+        }
+
+        .orders {
+            order: 1;
+            font-size: 20px;
+            margin-top: 20px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .arxiv-button {
+
+            display: inline-block !important;
+            /* Color */
+            outline: none;
+            cursor: pointer;
+            border: 2px solid #F16136;
+            border-radius: 6px;
+            /* SİFARİŞ ET */
+            font-family: Kanit;
+            font-style: normal;
+            font-size: 20px;
+            /* Second color */
+            background: #F16136;
+            color: white;
+            padding: 5px 20px;
+        }
+
+        .orders .xariciunvan_title {
+            font-size: 24px !important;
+
+        }
+
+        .xariciunvan_main {
+            margin-top: 20px;
+            order: 1;
+
+        }
+
+        .xariciunvan_title {
+            font-size: 18px !important;
+        }
+
+        .mar-1 {
+            margin-top: 7px;
+        }
+
+        .xariciunvan_btn {
+            margin-right: 7px;
+        }
+
+        .olkeler {
+            /* Group 223 */
+            width: 100%;
+            height: 48px;
+            margin: auto;
+
+        }
+
+        .olke {
+            margin-top: 20px;
+            width: 300px;
+            display: flex;
+            justify-content: center;
+            padding-top: 5px;
+        }
+
+        .olke:nth-child(even) {
+            box-sizing: border-box;
+            padding-left: 20px;
+        }
+
+        .olke span {
+            display: block;
+        }
+
+        .xariciunvan_inform {
+            display: none;
+        }
+
+        .copy {
+            display: block !important;
+        }
+
+        .footer {
+            display: none;
+        }
+
+        .mobile_link {
+            display: inline;
+        }
+
+        .balans {
+            margin-top: 15px;
+        }
+
+        .balans_title {
+            font-size: 18px;
+        }
+
+        .balansbtn {
+            margin: 20px auto;
+        }
+
+        .blt2 {
+            text-align: center !important;
+        }
+
+        .table_baglama {
+            display: none;
+        }
+
+        .mobile-table-container {
+            display: block !important;
+            margin-top: 20px;
+        }
+
+        .mobile-table tr th {
+            width: 180px !important;
+            background: #F2F2F2;
+            color: #57606F;
+
+        }
+
+        .mobile-table tr td {
+            width: 100% !important;
+
+        }
+
+        .mobile-hide {
+            display: none !important;
+        }
+
+        .order-list {
+            display: block;
+        }
+
+    }
+
+    @media (max-width:767px) and (min-width:415px) {
+        .olkeler {
+            /* Group 223 */
+            width: 100%;
+            height: 48px;
+            margin: auto;
+            margin-top: 30px;
+            display: flex;
+        }
+
+        .turkiye {
+            margin-top: 20px;
+        }
+
+        .olke {
+            margin-top: 20px;
+
+        }
+    }
+
+    @media (max-width:768px) {
+
+        .olkeler {
+            width: 100%;
+        }
+
+        .turkiye,
+        .olke {
+            margin-top: 20px;
+        }
+    }
